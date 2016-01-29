@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\heinz\Desktop\FTCVision-master\ftc-robotcontroller\build\intermediates\exploded-aar\FTCVision-master\ftc-visionlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="617248b0aee679deaf9fd0803fb3b9a285cd2ddd">
+        <dex dex="C:\Users\heinz\Desktop\FTCVision-master\ftc-robotcontroller\build\intermediates\pre-dexed\debug\classes-0f4a3413d67c19196be17964af75512aa2523dad.jar" />
+    </item>
+    <item
+        jar="C:\Users\heinz\Desktop\FTCVision-master\ftc-robotcontroller\build\intermediates\exploded-aar\FTCVision-master\opencv-java\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e619000ee1e5398aaf78b2de55770a152ce438c">
+        <dex dex="C:\Users\heinz\Desktop\FTCVision-master\ftc-robotcontroller\build\intermediates\pre-dexed\debug\classes-bfc906fefe9ea4e42e9bcd65c1c483faaf126672.jar" />
+    </item>
+
+</items>
